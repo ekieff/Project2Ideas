@@ -25,12 +25,13 @@ In the space below:
 * if there are any changes/additions to your user stories, place your full set of revised user stories here
 * either embed or link wireframes for every page of your app
 
+(https://app.lucidchart.com/invitations/accept/f41a47ea-5345-4fee-9cfc-c3c2663d0543)
 ----------------------------------------------------------
 ### ERD
 
 ----------------------------------------------------------
 ### User Stories
-
+- As a user I want to be able to procastinate preparing for Elaine's wedding until the last minute. I then want to be able to be directed directly to the chapel 5 minutes beforehand. I want to be able to buy something from the registry in the middle of the vows. If I am a prepared user, I want to log in and look through their engagement photos and story. I want to log my best wishes for them to save. I want to submit my RSVP details. I want to later be able to log in for more photos and the video.
 ----------------------------------------------------------
 ### Wireframes
 
