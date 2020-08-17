@@ -31,7 +31,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### User Stories
-- As a user I want to be able to procastinate preparing for Elaine's wedding until the last minute. I then want to be able to be directed directly to the chapel 5 minutes beforehand. I want to be able to buy something from the registry in the middle of the vows. If I am a prepared user, I want to log in and look through their engagement photos and story. I want to log my best wishes for them to save. I want to submit my RSVP details. I want to later be able to log in for more photos and the video.
+- As a user I want to, create an account. View details of a wine, add a wine to my tasting sheet. View all of my added wines. Add notes to my wines. 
 ----------------------------------------------------------
 ### Wireframes
 
